@@ -1,3 +1,4 @@
 # Paragon z warzywniaka
 Kto jest najlepszym commiterem?
-Najlepszym commiterem jest User1
+<<<<<<< HEAD
+Najlepszym commiterem jest User2
